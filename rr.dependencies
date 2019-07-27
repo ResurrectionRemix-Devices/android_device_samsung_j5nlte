@@ -6,7 +6,8 @@
   },
   {
     "repository": "LineageOS/android_hardware_samsung",
-    "target_path": "hardware/samsung"
+    "target_path": "hardware/samsung",
+    "branch": "lineage-16.0"
   },
   {
     "repository": "android_device_samsung_qcom-common",
@@ -21,8 +22,10 @@
     "target_path": "device/samsung/j5-common"
   },
   {
-    "repository": "android_kernel_samsung_msm8916",
-    "target_path": "kernel/samsung/msm8916"
+    "repository": "Galaxy-MSM8916/android_kernel_samsung_msm8916",
+    "target_path": "kernel/samsung/msm8916",
+    "branch": "lineage-16.0",
+    "remote": "github"
   },
   {
     "repository": "proprietary_vendor_samsung-1",
